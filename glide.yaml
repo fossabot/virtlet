@@ -62,12 +62,10 @@ import:
 - package: k8s.io/client-go
   version: ~6.0.0
 - package: k8s.io/api
-  version: kubernetes-1.9.6
+  version: kubernetes-1.10.2
 - package: k8s.io/apimachinery
-  version: kubernetes-1.9.6
-- package: k8s.io/metrics
-  version: kubernetes-1.9.6
+  version: kubernetes-1.10.2
 - package: k8s.io/apiextensions-apiserver
-  version: kubernetes-1.9.6
+  version: kubernetes-1.10.2
 - package: k8s.io/kubernetes
-  version: v1.9.6
+  version: v1.10.2
